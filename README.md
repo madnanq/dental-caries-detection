@@ -1,2 +1,2 @@
-# dental-caries-detection
-Code and Data for Paper "Dental caries detection using a semi-supervised learning approach" accepted for publication at Scientific Reports will be uploaded soon.
+# Dental caries detection using a semi-supervised learning approach
+Adnan Qayyum, Ahsen Tahir, Muhammad Atif Butt, Alexander Luke, Hasan Tahir Abbas, Junaid Qadir, Kamran Arshad, Khaled Assaleh, Muhammad Ali Imran & Qammer H. Abbasi

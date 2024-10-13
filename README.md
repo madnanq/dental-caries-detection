@@ -17,6 +17,11 @@ We present a dental-caries detection dataset to train and evaluate supervised/se
 
 # Training
 
+## Data Preprocessing
+
+-  Use 'Centroid_Augmentation.ipynb' to apply our preprocessing techniques.
+
+## Train your model
 ```
 python train.py --resume-training no
 ```

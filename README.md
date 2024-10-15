@@ -13,7 +13,7 @@
 6. TensorboardX (https://pypi.org/project/tensorboardX/), (pip install tensorboardX)
 
 ## Dataset 
-We present a dental-caries detection dataset to train and evaluate supervised/semi-supervised methods. You can send an email at 'matifbutt@outlook.com' or 'adnan qayyum' to get access to our dataset. Our labeled dataset contains 200 labeled images.
+We present a dental-caries detection dataset to train and evaluate supervised/semi-supervised methods. You can request data access by writing an email to the corresponding author Prof. Qammer H. Abbasi. Our labeled dataset contains 141 images.
 
 # Training
 

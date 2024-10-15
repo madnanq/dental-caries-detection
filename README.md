@@ -13,7 +13,7 @@
 6. TensorboardX (https://pypi.org/project/tensorboardX/), (pip install tensorboardX)
 
 ## Dataset 
-We present a dental-caries detection dataset to train and evaluate supervised/semi-supervised methods. You can request data access by writing an email to [Adnan Qayyum](adnan.qayyum@itu.edu.pk). Our labeled dataset contains 141 images.
+We present a dental-caries detection dataset to train and evaluate supervised/semi-supervised methods. You can request data access by filling out this [Google Form](Google Form Link). Our labeled dataset contains 141 images.
 
 # Training
 
@@ -30,7 +30,7 @@ python train.py --resume-training no
 
 ## Test the model on the image 
 
--  Use this python script to apply pixel level segmentation on dental image of your choice.
+-  Use this Python script to apply pixel-level segmentation on dental image of your choice.
 ```
 python test.py --model-path <path to saved checkpoint/weight file> --input <path to image>.
 ```
